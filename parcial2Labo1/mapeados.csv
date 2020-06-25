@@ -1,0 +1,41 @@
+ID_VENTA, ARTICULO, MEDIDA, PRECIO, RUBRO, DESCUENTO
+28,  Agua destilada,  110, 5 lts, CUIDADO DE AUTOMOTOR, 0 
+5,  Antigrasa VALESCU,  130, 1 lts, LIMPIEZA Y DESFINFECCION, 13 
+6,  Antihongo de Banio VALESCU,  119, 1 lts, LIMPIEZA Y DESFINFECCION, 11 
+19,  Bactericida de Piso T. Lisoform,  180, 5 lts, LIMPIEZA Y DESFINFECCION, 18 
+18,  Bactericida de Piso T. Lisoform,  50, 1 lts, LIMPIEZA Y DESFINFECCION, 5 
+26,  Brillo mas teflon,  200, 250 ml, CUIDADO DE AUTOMOTOR, 0 
+40,  Cepillo de dientes COLGATE,  90, 2 u, CUIDADO PERSONAL E HIGIENE, 0 
+38,  Crema dental COLGATE,  75, 70 grs, CUIDADO PERSONAL E HIGIENE, 0 
+39,  Crema dental COLGATE HERBAL,  160, 140 grs, CUIDADO PERSONAL E HIGIENE, 0 
+20,  Desengrasante Industrial MARY,  160, 1 lts, LIMPIEZA Y DESFINFECCION, 16 
+9,  Desodorante DOVE roll,  1145, 50 grs, CUIDADO PERSONAL E HIGIENE, 0 
+7,  Desodorante NIVEA MEN,  120, 1 u, CUIDADO PERSONAL E HIGIENE, 0 
+8,  Desodorante REXONA,  125, 1 u, CUIDADO PERSONAL E HIGIENE, 0 
+3,  Detergente T. Magistral,  170, 1 lts, LIMPIEZA Y DESFINFECCION, 17 
+24,  Gel de ducha VALESCU,  125, 500 ml, CUIDADO PERSONAL E HIGIENE, 0 
+34,  Jabon Liquido T.Ariel,  390, 5 lts, CUIDADO DE ROPA, 78 
+33,  Jabon Liquido T.Ariel,  95, 1 lts, CUIDADO DE ROPA, 0 
+16,  Jabon blanco SEISEME,  80, 1 u, CUIDADO DE ROPA, 0 
+14,  Jabon blanco ZORRO,  45, 1 u, CUIDADO DE ROPA, 0 
+15,  Jabon blanco ZORRO c/suavizante,  45, 1 u, CUIDADO DE ROPA, 0 
+36,  Jabon de tocador Nivea,  60, 1 u, CUIDADO PERSONAL E HIGIENE, 0 
+25,  Jabon de tocador PROTEX,  85, 1 u, CUIDADO PERSONAL E HIGIENE, 0 
+37,  Jabon de tocador Rexona,  140, 3 u, CUIDADO PERSONAL E HIGIENE, 0 
+23,  Jabon liquido p/manos Dove,  130, 1 lts, CUIDADO PERSONAL E HIGIENE, 0 
+22,  Jabon liquido p/manos Dove,  110, 250 ml, CUIDADO PERSONAL E HIGIENE, 0 
+35,  Lavandina R/Blanca,  90, 1 lts, CUIDADO DE ROPA, 0 
+12,  Lavandina R/Color,  110, 1 lts, CUIDADO DE ROPA, 0 
+17,  Lavandina T Ayudin,  45, 1 lts, LIMPIEZA Y DESFINFECCION, 4 
+1,  Lavandina T Ayudin,  170, 5 lts, LIMPIEZA Y DESFINFECCION, 17 
+2,  Lavandina en gel,  110, 1 lts, LIMPIEZA Y DESFINFECCION, 11 
+4,  Limpiador cremoso VALENTINA T. Cif,  140, 1 lts, LIMPIEZA Y DESFINFECCION, 14 
+21,  Limpiavidrios VALESCU,  100, 1 lts, LIMPIEZA Y DESFINFECCION, 10 
+29,  Liquido refrigerante,  480, 5 lts, CUIDADO DE AUTOMOTOR, 0 
+30,  Perfume para auto,  310, 1 lts, CUIDADO DE AUTOMOTOR, 0 
+13,  Quita Manchas,  110, 250 ml, CUIDADO DE ROPA, 0 
+27,  Rejilla auto doble,  110, 1 u, CUIDADO DE AUTOMOTOR, 0 
+11,  Revividor interior/exterior,  359, 1 lts, CUIDADO DE AUTOMOTOR, 0 
+10,  Shampoo para autos siliconado,  99, 500 ml, CUIDADO DE AUTOMOTOR, 0 
+31,  Suavizante T.Confort/Vivere/Woolite,  55, 1 lts, CUIDADO DE ROPA, 0 
+32,  Suavizante T.Confort/Vivere/Woolite,  220, 5 lts, CUIDADO DE ROPA, 44 
